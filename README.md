@@ -52,5 +52,6 @@ The dataset includes transactional sales data with the following key attributes:
 
 ## Author
 Thanuja AV
+
 Aspiring Data Analyst | SQL | Python | Power BI
 
