@@ -51,6 +51,6 @@ The dataset includes transactional sales data with the following key attributes:
 - Develop predictive models for sales forecasting.
 
 ## Author
-[Your Name]  
-Feel free to contribute, raise issues, or suggest improvements!
+Thanuja AV
+Aspiring Data Analyst | SQL | Python | Power BI
 
